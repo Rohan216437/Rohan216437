@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan216437" alt="rohan216437" /></a> </p>
 
-- I’m currently learning **ReactJS and NodeJS to upgrade my skills**
+- I’m currently learning **ReactJS and NextJS to upgrade my skills**
 
 - 📫 How to reach me **rohangupta0729@gmail.com**
 
